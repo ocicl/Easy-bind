@@ -1,0 +1,10 @@
+* Easy-bind
+
+Easy local binding for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Edraag/Easy-bind.git   |
+| commit  | bb0439c  |
+| systems | Easy-bind |
+|---------+-------------------------------------------|
+
